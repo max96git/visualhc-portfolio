@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: i shed by myself
-    subtitle: >-
-      talking to the
-      mooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooaaaaaaaaaaaaaan
+    subtitle: i like developing in ROBLOX studio
     styles:
       self:
         height: auto
