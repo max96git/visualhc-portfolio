@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: i shed by myself
+    title: Hey there!
     subtitle: i like developing in ROBLOX studio
     styles:
       self:
